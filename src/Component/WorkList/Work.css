@@ -1,0 +1,13 @@
+.list-container{
+    height: 50%;
+    width: 50%;
+    margin-top: -600px;
+   
+
+}
+
+h3{
+    color:grey;
+    font-weight: bold;
+    font-family: 'Cabin', sans-serif;
+}

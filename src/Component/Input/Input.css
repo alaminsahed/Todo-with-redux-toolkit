@@ -1,0 +1,31 @@
+.input-form{
+    height: 50px;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: seagreen;
+    border: none;
+    border-radius: 5px;
+
+}
+
+input{
+    border:none;
+    margin: 10px;
+    flex: 1;
+}
+
+input:focus{
+    outline-style: dashed;
+}
+
+.btn{
+    margin-right: 5px;
+    /* border: 1px solid tomato; */
+    background-color: darkcyan;
+}
+
+.btn:hover{
+    background-color:cyan;
+}

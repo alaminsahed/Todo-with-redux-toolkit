@@ -1,0 +1,13 @@
+.todo-container{
+    display: flex;
+    height: 100%;
+    width:100%;
+    background-color: darkcyan;
+    margin-bottom: 0;
+    border-color:  white;
+    border-style: double;
+    box-shadow: 3px 3px 15px grey;
+    font-weight: bold;
+    font-family: 'Cabin', sans-serif;
+    font-size: 18px;
+}
